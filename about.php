@@ -12,6 +12,7 @@ $active="About";
     <div class="aboutdes">This is the web application for the both customer and seller .Here,the customer can buy the products listed by seller. similarly the seller can list the products and maintain the records.</div>
 
 </div>
+<h2> changes </h2>
 <?php
     include_once("includes/footer.php");
 ?>
